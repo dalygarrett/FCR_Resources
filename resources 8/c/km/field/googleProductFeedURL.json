@@ -1,0 +1,14 @@
+{
+  "$id": "c_googleProductFeedURL",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "displayName": "Google Product Feed URL",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "URL",
+      "maxLength": 2000
+    }
+  },
+  "typeId": "string"
+}
